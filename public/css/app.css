@@ -1,0 +1,33 @@
+#logo {
+  color: #ad1d29;
+}
+.navheader {
+  color: #ad1d29 !important;
+}
+#personalia {
+  height: 30em;
+}
+#personalia .content {
+  margin-top: 0;
+}
+#personalia .content-header {
+  padding-left: 20px;
+  padding-bottom: 0px;
+}
+h1 {
+  color: #ad1d29;
+  text-align: center;
+  margin-bottom: 10px;
+}
+#foto {
+  margin-top: 10px;
+}
+#project {
+  height: 40em;
+}
+#styles {
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: repeat;
+  background-size: cover;
+}

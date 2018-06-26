@@ -17,7 +17,8 @@ stylus('resources/stylus/app.styl', 'public/css')
         'node_modules/uikit/dist/css/uikit.css'
 ], 'public/css/vendor.css').combine([
     'node_modules/uikit/dist/js/uikit.js'
-], 'public/js/vendor.js');
+], 'public/js/vendor.js')
+    .copy('resources/images','public/images');
 
 
 // Full API
