@@ -12437,55 +12437,65 @@ var staticRenderFns = [
                 attrs: { "uk-grid": "" }
               },
               [
-                _c("div", { staticClass: "uk-width-expand@m uk-visible@m" }, [
-                  _c(
-                    "div",
-                    { staticClass: "uk-flex-middle", attrs: { "uk-grid": "" } },
-                    [
-                      _c("div", { staticClass: "uk-width-2-3@m" }, [
-                        _c("p", [
-                          _vm._v(
-                            " Mijn naam is Dion Pisas, geboren op Curacao  op 29-juni-1990. Op het moment ben ik een student bij Hoge school Rotterdam opleiding: CMGT"
-                          )
+                _c(
+                  "div",
+                  {
+                    staticClass:
+                      "uk-width-expand@m uk-visible@m uk-background-muted"
+                  },
+                  [
+                    _c(
+                      "div",
+                      {
+                        staticClass: "uk-flex-middle",
+                        attrs: { "uk-grid": "" }
+                      },
+                      [
+                        _c("div", { staticClass: "uk-width-2-3@m" }, [
+                          _c("p", [
+                            _vm._v(
+                              " Mijn naam is Dion Pisas, geboren op Curacao  op 29-juni-1990. Op het moment ben ik een student bij Hoge school Rotterdam opleiding: CMGT"
+                            )
+                          ]),
+                          _vm._v(" "),
+                          _c("p", [
+                            _vm._v(
+                              " Afgeronde opleidingen: ICT beheer, Media-developer. Ik hou van zowel back-end als front-end programmeren."
+                            )
+                          ]),
+                          _vm._v(" "),
+                          _c("p", [
+                            _vm._v(
+                              " Ervaring : PHP, CSS, JAVASCRIPT, JQUERY (Frameworks)"
+                            )
+                          ]),
+                          _vm._v(" "),
+                          _c("p", [_vm._v(" Hobby's  : Sporten, Gamen")])
                         ]),
                         _vm._v(" "),
-                        _c("p", [
-                          _vm._v(
-                            " Afgeronde opleidingen: ICT beheer, Media-developer. Ik hou van zowel back-end als front-end programmeren."
-                          )
-                        ]),
-                        _vm._v(" "),
-                        _c("p", [
-                          _vm._v(
-                            " Ervaring : PHP, CSS, JAVASCRIPT, JQUERY (Frameworks)"
-                          )
-                        ]),
-                        _vm._v(" "),
-                        _c("p", [_vm._v(" Hobby's  : Sporten, Gamen")])
-                      ]),
-                      _vm._v(" "),
-                      _c(
-                        "div",
-                        {
-                          staticClass:
-                            "uk-width-1-3@m uk-flex-first uk-vissible@m"
-                        },
-                        [
-                          _c("img", {
-                            attrs: {
-                              id: "foto",
-                              "data-src": "images/foto.jpeg",
-                              width: "200px",
-                              height: "200px",
-                              alt: "",
-                              "uk-img": ""
-                            }
-                          })
-                        ]
-                      )
-                    ]
-                  )
-                ]),
+                        _c(
+                          "div",
+                          {
+                            staticClass:
+                              "uk-width-1-3@m uk-flex-first uk-vissible@m"
+                          },
+                          [
+                            _c("img", {
+                              attrs: {
+                                id: "foto",
+                                "data-src": "images/foto.jpeg",
+                                width: "200px",
+                                height: "200px",
+                                alt: "",
+                                "uk-img": ""
+                              }
+                            })
+                          ]
+                        )
+                      ]
+                    )
+                  ]
+                ),
                 _vm._v(" "),
                 _c("div", { staticClass: "uk-width-expand@m  uk-hidden@s" }, [
                   _c(
@@ -13203,7 +13213,7 @@ exports = module.exports = __webpack_require__(0)(false);
 
 
 // module
-exports.push([module.i, "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n", ""]);
+exports.push([module.i, "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n", ""]);
 
 // exports
 
@@ -13214,6 +13224,10 @@ exports.push([module.i, "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n", ""]);
 
 "use strict";
 Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
+//
+//
+//
+//
 //
 //
 //
@@ -13235,18 +13249,13 @@ var render = function() {
   var _vm = this
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
-  return _vm._m(0)
+  return _c("div", {
+    staticClass:
+      "uk-height-medium uk-flex uk-flex-center uk-flex-middle uk-background-cover uk-light",
+    attrs: { "data-src": "images/3.jpg", id: "styles", "uk-img": "" }
+  })
 }
-var staticRenderFns = [
-  function() {
-    var _vm = this
-    var _h = _vm.$createElement
-    var _c = _vm._self._c || _h
-    return _c("div", { staticClass: "styles" }, [
-      _c("img", { attrs: { src: "images/3.jpg", alt: "", id: "styles" } })
-    ])
-  }
-]
+var staticRenderFns = []
 render._withStripped = true
 module.exports = { render: render, staticRenderFns: staticRenderFns }
 if (false) {

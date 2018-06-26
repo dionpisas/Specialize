@@ -10,7 +10,7 @@
 
                 <div class="content uk-text-center" uk-grid>
 
-                <div class="uk-width-expand@m uk-visible@m">
+                <div class="uk-width-expand@m uk-visible@m uk-background-muted">
                     <div class="uk-flex-middle" uk-grid>
                         <div class="uk-width-2-3@m">
                             <p> Mijn naam is Dion Pisas, geboren op Curacao  op 29-juni-1990. Op het moment ben ik een student bij Hoge school Rotterdam opleiding: CMGT</p>

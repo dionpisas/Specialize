@@ -9,6 +9,7 @@
 }
 #personalia .content {
   margin-top: 0;
+  backround-color: #eaebff;
 }
 #personalia .content-header {
   padding-left: 20px;
@@ -23,7 +24,8 @@ h1 {
   margin-top: 10px;
 }
 #project {
-  height: 40em;
+  height: 30em;
+  background-color: #fff;
 }
 #styles {
   background-attachment: fixed;
