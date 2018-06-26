@@ -28,8 +28,9 @@ h1 {
   background-color: #fff;
 }
 #styles {
+  height: 300px;
   background-attachment: fixed;
   background-position: center;
-  background-repeat: repeat;
+  background-repeat: no-repeat;
   background-size: cover;
 }
