@@ -12323,7 +12323,7 @@ exports = module.exports = __webpack_require__(0)(false);
 
 
 // module
-exports.push([module.i, "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n", ""]);
+exports.push([module.i, "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n", ""]);
 
 // exports
 
@@ -12334,6 +12334,7 @@ exports.push([module.i, "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
 
 "use strict";
 Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
+//
 //
 //
 //
@@ -12470,7 +12471,11 @@ var staticRenderFns = [
                             )
                           ]),
                           _vm._v(" "),
-                          _c("p", [_vm._v(" Hobby's  : Sporten, Gamen")])
+                          _c("p", [_vm._v(" Hobby's  : Sporten, Gamen")]),
+                          _vm._v(" "),
+                          _c("p", [
+                            _vm._v(" Email: Dion.pisas.1990@gmail.com ")
+                          ])
                         ]),
                         _vm._v(" "),
                         _c(

@@ -17,6 +17,7 @@
                             <p> Afgeronde opleidingen: ICT beheer, Media-developer. Ik hou van zowel back-end als front-end programmeren.</p>
                             <p> Ervaring : HTML, PHP, CSS, JAVASCRIPT, JQUERY (Frameworks)</p>
                             <p> Hobby's  : Sporten, Gamen</p>
+                            <p> Email: Dion.pisas.1990@gmail.com </p>
                         </div>
                         <div class="uk-width-1-3@m uk-flex-first uk-vissible@m">
                             <img id="foto" data-src="images/foto.jpeg" width="200px" height="200px" alt="" uk-img>
