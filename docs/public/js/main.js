@@ -12466,7 +12466,7 @@ var staticRenderFns = [
                           _vm._v(" "),
                           _c("p", [
                             _vm._v(
-                              " Ervaring : PHP, CSS, JAVASCRIPT, JQUERY (Frameworks)"
+                              " Ervaring : HTML, PHP, CSS, JAVASCRIPT, JQUERY (Frameworks)"
                             )
                           ]),
                           _vm._v(" "),

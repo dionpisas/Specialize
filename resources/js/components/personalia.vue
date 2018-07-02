@@ -15,7 +15,7 @@
                         <div class="uk-width-2-3@m ">
                             <p> Mijn naam is Dion Pisas, geboren op Curacao  op 29-juni-1990. Op het moment ben ik een student bij Hoge school Rotterdam opleiding: CMGT</p>
                             <p> Afgeronde opleidingen: ICT beheer, Media-developer. Ik hou van zowel back-end als front-end programmeren.</p>
-                            <p> Ervaring : PHP, CSS, JAVASCRIPT, JQUERY (Frameworks)</p>
+                            <p> Ervaring : HTML, PHP, CSS, JAVASCRIPT, JQUERY (Frameworks)</p>
                             <p> Hobby's  : Sporten, Gamen</p>
                         </div>
                         <div class="uk-width-1-3@m uk-flex-first uk-vissible@m">
