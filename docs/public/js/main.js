@@ -13094,14 +13094,7 @@ var staticRenderFns = [
                       _vm._v(" "),
                       _c("p", [_vm._v("Neem contact op met mij")]),
                       _vm._v(" "),
-                      _c(
-                        "a",
-                        {
-                          staticClass: "uk-button uk-button-text",
-                          attrs: { href: "https://github.com/dionpisas" }
-                        },
-                        [_vm._v("Op aanvrag")]
-                      )
+                      _c("p", [_vm._v("Op aanvrag")])
                     ]
                   )
                 ])

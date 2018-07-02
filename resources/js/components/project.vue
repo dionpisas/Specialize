@@ -97,7 +97,7 @@
                     <div class="uk-card uk-card-default uk-card-small uk-card-body">
                         <h3 class="uk-card-title">Reserveringsysteem voor een nagelstyliste</h3>
                         <p>Neem contact op met mij</p>
-                        <a href="https://github.com/dionpisas" class="uk-button uk-button-text">Op aanvrag</a>
+                        <p>Op aanvrag</p>
                     </div>
                 </div>
 
