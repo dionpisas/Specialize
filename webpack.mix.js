@@ -12,13 +12,13 @@ let mix = require('laravel-mix');
  */
 
 mix.js('resources/js/main.js', 'public/js').
-stylus('resources/stylus/app.styl', 'public/css')
-    .setPublicPath("public").styles([
+stylus('resources/stylus/app.styl', 'docs/css')
+    .setPublicPath("docs").styles([
         'node_modules/uikit/dist/css/uikit.css'
-], 'public/css/vendor.css').combine([
+], 'docs/css/vendor.css').combine([
     'node_modules/uikit/dist/js/uikit.js'
-], 'public/js/vendor.js')
-    .copy('resources/images','public/images');
+], 'docs/js/vendor.js')
+    .copy('resources/images','docs/images');
 
 
 // Full API

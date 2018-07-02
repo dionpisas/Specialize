@@ -530,7 +530,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__components_personalia___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_2__components_personalia__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__components_project__ = __webpack_require__(22);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__components_project___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_3__components_project__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__components_parallax__ = __webpack_require__(36);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__components_parallax__ = __webpack_require__(27);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__components_parallax___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_4__components_parallax__);
 
 
@@ -12451,7 +12451,7 @@ var staticRenderFns = [
                         attrs: { "uk-grid": "" }
                       },
                       [
-                        _c("div", { staticClass: "uk-width-2-3@m" }, [
+                        _c("div", { staticClass: "uk-width-2-3@m " }, [
                           _c("p", [
                             _vm._v(
                               " Mijn naam is Dion Pisas, geboren op Curacao  op 29-juni-1990. Op het moment ben ik een student bij Hoge school Rotterdam opleiding: CMGT"
@@ -12502,13 +12502,17 @@ var staticRenderFns = [
                     "div",
                     { staticClass: "uk-flex-middle", attrs: { "uk-grid": "" } },
                     [
-                      _c("div", { staticClass: "uk-width-2-3@m" }, [
-                        _c("p", [
-                          _vm._v(
-                            " Mijn naam is Dion Pisas, geboren op Curacao  op 29-juni-1990. Op het moment ben ik een student bij Hoge school Rotterdam opleiding: CMGT.\n                             Afgeronde opleidingen: ICT beheer, Media-developer. Ik hou van zowel back-end als front-end programmeren.\n                            Ervaring : PHP, CSS, JAVASCRIPT, JQUERY (Frameworks)\n                            Hobby's  : Sporten, Gamen"
-                          )
-                        ])
-                      ]),
+                      _c(
+                        "div",
+                        { staticClass: "uk-width-2-3@m uk-text-background" },
+                        [
+                          _c("p", [
+                            _vm._v(
+                              " Mijn naam is Dion Pisas, geboren op Curacao  op 29-juni-1990. Op het moment ben ik een student bij Hoge school Rotterdam opleiding: CMGT.\n                             Afgeronde opleidingen: ICT beheer, Media-developer. Ik hou van zowel back-end als front-end programmeren.\n                            Ervaring : PHP, CSS, JAVASCRIPT, JQUERY (Frameworks)\n                            Hobby's  : Sporten, Gamen"
+                            )
+                          ])
+                        ]
+                      ),
                       _vm._v(" "),
                       _c(
                         "div",
@@ -13114,33 +13118,19 @@ if (false) {
 }
 
 /***/ }),
-/* 27 */,
-/* 28 */,
-/* 29 */,
-/* 30 */,
-/* 31 */,
-/* 32 */
-/***/ (function(module, exports) {
-
-// removed by extract-text-webpack-plugin
-
-/***/ }),
-/* 33 */,
-/* 34 */,
-/* 35 */,
-/* 36 */
+/* 27 */
 /***/ (function(module, exports, __webpack_require__) {
 
 var disposed = false
 function injectStyle (ssrContext) {
   if (disposed) return
-  __webpack_require__(37)
+  __webpack_require__(28)
 }
 var normalizeComponent = __webpack_require__(2)
 /* script */
-var __vue_script__ = __webpack_require__(39)
+var __vue_script__ = __webpack_require__(30)
 /* template */
-var __vue_template__ = __webpack_require__(40)
+var __vue_template__ = __webpack_require__(31)
 /* template functional */
 var __vue_template_functional__ = false
 /* styles */
@@ -13179,13 +13169,13 @@ module.exports = Component.exports
 
 
 /***/ }),
-/* 37 */
+/* 28 */
 /***/ (function(module, exports, __webpack_require__) {
 
 // style-loader: Adds some css to the DOM by adding a <style> tag
 
 // load the styles
-var content = __webpack_require__(38);
+var content = __webpack_require__(29);
 if(typeof content === 'string') content = [[module.i, content, '']];
 if(content.locals) module.exports = content.locals;
 // add the styles to the DOM
@@ -13205,7 +13195,7 @@ if(false) {
 }
 
 /***/ }),
-/* 38 */
+/* 29 */
 /***/ (function(module, exports, __webpack_require__) {
 
 exports = module.exports = __webpack_require__(0)(false);
@@ -13219,7 +13209,7 @@ exports.push([module.i, "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n", ""]);
 
 
 /***/ }),
-/* 39 */
+/* 30 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -13238,7 +13228,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 });
 
 /***/ }),
-/* 40 */
+/* 31 */
 /***/ (function(module, exports, __webpack_require__) {
 
 var render = function() {
@@ -13260,6 +13250,12 @@ if (false) {
     require("vue-hot-reload-api")      .rerender("data-v-c061693c", module.exports)
   }
 }
+
+/***/ }),
+/* 32 */
+/***/ (function(module, exports) {
+
+// removed by extract-text-webpack-plugin
 
 /***/ })
 /******/ ]);

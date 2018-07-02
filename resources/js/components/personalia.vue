@@ -12,7 +12,7 @@
 
                 <div class="uk-width-expand@m uk-visible@m uk-background-muted">
                     <div class="uk-flex-middle" uk-grid>
-                        <div class="uk-width-2-3@m">
+                        <div class="uk-width-2-3@m ">
                             <p> Mijn naam is Dion Pisas, geboren op Curacao  op 29-juni-1990. Op het moment ben ik een student bij Hoge school Rotterdam opleiding: CMGT</p>
                             <p> Afgeronde opleidingen: ICT beheer, Media-developer. Ik hou van zowel back-end als front-end programmeren.</p>
                             <p> Ervaring : PHP, CSS, JAVASCRIPT, JQUERY (Frameworks)</p>
@@ -26,7 +26,7 @@
 
                     <div class="uk-width-expand@m  uk-hidden@s">
                         <div class="uk-flex-middle" uk-grid>
-                            <div class="uk-width-2-3@m">
+                            <div class="uk-width-2-3@m uk-text-background">
                                 <p> Mijn naam is Dion Pisas, geboren op Curacao  op 29-juni-1990. Op het moment ben ik een student bij Hoge school Rotterdam opleiding: CMGT.
                                  Afgeronde opleidingen: ICT beheer, Media-developer. Ik hou van zowel back-end als front-end programmeren.
                                 Ervaring : PHP, CSS, JAVASCRIPT, JQUERY (Frameworks)
