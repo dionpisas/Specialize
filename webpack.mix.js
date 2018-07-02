@@ -11,7 +11,7 @@ let mix = require('laravel-mix');
  |
  */
 
-mix.js('resources/js/main.js', 'public/js').
+mix.js('resources/js/main.js', 'docs/js').
 stylus('resources/stylus/app.styl', 'docs/css')
     .setPublicPath("docs").styles([
         'node_modules/uikit/dist/css/uikit.css'
