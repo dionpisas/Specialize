@@ -18,6 +18,7 @@
                             <p> Ervaring : HTML, PHP, CSS, JAVASCRIPT, JQUERY, Typescript (Frameworks: Laravel, Codeigniter, Vue, Phaser)</p>
                             <p> Hobby's  : Sporten en Gamen</p>
                             <p> Email: Dion.pisas.1990@gmail.com </p>
+                            <p> Telefoon-nummer :  0638746300</p>
                         </div>
                         <div class="uk-width-1-3@m uk-flex-first uk-vissible@m">
                             <img id="foto" data-src="images/foto.jpeg" width="200px" height="200px" alt="" uk-img>
