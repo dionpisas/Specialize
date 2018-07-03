@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3400f83b-9b64-4e9d-8589-185273a52408" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/resources/js/components/personalia.vue" afterPath="$PROJECT_DIR$/resources/js/components/personalia.vue" />
-    </list>
+    <list default="true" id="3400f83b-9b64-4e9d-8589-185273a52408" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,7 +15,7 @@
         <entry file="file://$PROJECT_DIR$/resources/js/components/personalia.vue">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="352">
-              <caret line="20" column="65" lean-forward="true" selection-start-line="20" selection-start-column="65" selection-end-line="20" selection-end-column="65" />
+              <caret line="20" column="65" lean-forward="false" selection-start-line="20" selection-start-column="65" selection-end-line="20" selection-end-column="65" />
               <folding />
             </state>
           </provider>
@@ -195,12 +193,12 @@
       <workItem from="1530018842206" duration="6512000" />
       <workItem from="1530041207296" duration="3746000" />
       <workItem from="1530552229468" duration="60000" />
-      <workItem from="1530552570875" duration="1758000" />
+      <workItem from="1530552570875" duration="1779000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42074000" />
+    <option name="totallyTimeSpent" value="42095000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="947" extended-state="0" />
@@ -406,7 +404,7 @@
     <entry file="file://$PROJECT_DIR$/resources/js/components/personalia.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="352">
-          <caret line="20" column="65" lean-forward="true" selection-start-line="20" selection-start-column="65" selection-end-line="20" selection-end-column="65" />
+          <caret line="20" column="65" lean-forward="false" selection-start-line="20" selection-start-column="65" selection-end-line="20" selection-end-column="65" />
           <folding />
         </state>
       </provider>
